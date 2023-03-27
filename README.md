@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ddsalb
-- 👀 I’m interested in learning and practicing code
-- 🌱 I’m currently learning Java and C
-- 💞️ I’m looking to collaborate on many projects to practice coding
+Olá 👋
+- Estudante de Engenharia de Software na Universidade Federal do Pampa
+- Principais aréas de interesse em estudo são Segurança da Informação, Design de Software e Teste
+- Java
 
 <!---
 ddsalb/ddsalb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
